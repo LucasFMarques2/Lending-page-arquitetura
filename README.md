@@ -24,5 +24,5 @@ Link do site: [site](https://empresa-arquitetura-dnc.netlify.app/)
 
 ## Contato
 
-**[linkedin]**(https://www.linkedin.com/in/lucas-freitas-marques-30a83b245](https://projeto-dnc-lendingpage.netlify.app/)
-**e-mail**:lucasfreitasm3@hotmail.com.
+[linkedin](https://www.linkedin.com/in/lucas-freitas-marques-30a83b245](https://projeto-dnc-lendingpage.netlify.app/)
+e-mail:lucasfreitasm3@hotmail.com.

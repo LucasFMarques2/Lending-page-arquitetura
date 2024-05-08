@@ -1,20 +1,28 @@
-User
-### Hi there, I'm Lucas Freitas 👋
+# Desafio 1 DNC Landing Page - Resolução 
 
-#### About
-I'm a Web Developer junior. And I'm studying full stack development at [RocketSeat](https://app.rocketseat.com.br/home).
+Este projeto consiste em uma landing page de arquitetura com um formulário para contantos utilizando HTML e CSS.
 
-#### Current stack
-- Main language: `Javascript`
+## Estrutura do Projeto
+
+- **index.html**: Contém a estrutura HTML da página, incluindo o formulário de contatos.
+- **style.css**: Arquivo CSS para estilizar a página.
+
+## Funcionalidades
+
+1. **Formulário de Contatos**: Os visitantes podem preencher o formulário com nome e  e-mail e telefone para um orçamento de produtos.
 
 
+## Links do projeto
 
-- Backend: `Nodejs`
-- Frontend: `Reactjs`, `HTML5`, `CSS3`, `JAVASCRIPT`
-- Version conde contro: `Git & Github`
-- Tools: `Vscode`
+Link do formulário: [Sheet Monkey](https://docs.google.com/spreadsheets/d/1uc4ZhgQlG5grAtENSdRDaMByfmNvNEGZk0_O584UKaQ/edit#gid=0)
+Link do site: [site](https://empresa-arquitetura-dnc.netlify.app/)
 
-#### Contacts
-- 📧 Email: Lucasfreitasm3@hotmail.com
-- Linkedin: https://www.linkedin.com/in/lucas-freitas-marques-30a83b245/
-desse jeito, utilizando os caracteres especiais para fortificar as fontes
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+## Contato
+
+-[linkedin](https://www.linkedin.com/in/lucas-freitas-marques-30a83b245](https://projeto-dnc-lendingpage.netlify.app/)
+- **e-mail**:lucasfreitasm3@hotmail.com.
